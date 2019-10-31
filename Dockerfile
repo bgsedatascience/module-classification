@@ -1,3 +1,3 @@
 FROM jupyter/scipy-notebook
 
-COPY . /home/jupyter/work
+COPY . /home/jovyan/work
